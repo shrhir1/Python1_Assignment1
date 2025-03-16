@@ -1,6 +1,7 @@
 # Beginner Python Assignment 1
 
 date: 06/27/2022
+
 file: hello.py is a program that asks the user to enter user's name,
 age, and favorite movie and outputs a greeting message that includes the information about the user
 input: string data
